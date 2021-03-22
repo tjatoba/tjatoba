@@ -10,6 +10,8 @@
 <h3>I'm a Former Marketing Executive and Development Student since March 2020.</h3>
 <p align="justify">I am looking to collaborate on projects that I can practice the languages that I have been studying. In my profile, you will find projects developed with scholarships at Digital House and Labenu Code School.</p>
 <br/>
+<br/>
+<hr></hr> 
 <h4 align="center">I’m Currently Studying:</h4>
 <p align="center" >
   <img alt="tjatoba-linkedin" height="40" width="40" margin="20px" src="https://github.com/tjatoba/tjatoba/blob/main/images/HTML.png">
