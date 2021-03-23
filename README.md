@@ -24,7 +24,6 @@
 </p>
 <hr></hr> 
 
-<br/>
 <img src="https://komarev.com/ghpvc/?username=your-github-username&color=079839">
 
 **CONTACT ME** <br/>
