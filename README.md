@@ -27,7 +27,9 @@
 <img src="https://komarev.com/ghpvc/?username=your-github-username&color=079839">
 </br>
 </br>
-**CONTACT ME**<br/>
+
+**CONTACT ME**
+<br/>
 <a href="https://www.linkedin.com/in/thiagojatobadev/">
   <img alt="tjatoba-linkedin" height="40" width="150" src="https://github.com/tjatoba/tjatoba/blob/main/images/LinkedIn_Logo.png">
 </a>
