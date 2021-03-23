@@ -23,10 +23,11 @@
   <img alt="tjatoba-techskills" style="max-width:100%;"src="https://github.com/tjatoba/tjatoba/blob/main/images/bannerlinguagens.png">
 </p>
 <hr></hr> 
-
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=your-github-username&color=079839">
 
-**CONTACT ME** <br/>
-<a align="center" href="https://www.linkedin.com/in/thiagojatobadev/">
-  <img align="center" alt="tjatoba-linkedin" height="40" width="150" src="https://github.com/tjatoba/tjatoba/blob/main/images/LinkedIn_Logo.png">
+**CONTACT ME**
+<a href="https://www.linkedin.com/in/thiagojatobadev/">
+  <img alt="tjatoba-linkedin" height="40" width="150" src="https://github.com/tjatoba/tjatoba/blob/main/images/LinkedIn_Logo.png">
 </a>
+</div>
