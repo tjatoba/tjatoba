@@ -1,9 +1,15 @@
-<img src="https://github.com/tjatoba/tjatoba/blob/main/images/bannerthiagojatoba.png" alt="banner_github" style="max-width:100%;">
-
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjatoba&layout=compact&theme=blue-green" style="max-width:100%;">
-<img width="495px" align="right" src="https://github-readme-stats.vercel.app/api?username=tjatoba&amp;theme=blue-green" style="max-width:100%;">
-
-<img style="marging:20px;" src="https://komarev.com/ghpvc/?username=your-github-username&color=079839">
+<table style="width:100%">
+  <tr>
+    <th>
+      <img src="https://github.com/tjatoba/tjatoba/blob/main/images/bannerthiagojatoba.png" alt="banner_github" style="max-width:100%;">
+    </th>
+  </tr>
+  <tr>
+    <td>
+      <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjatoba&layout=compact&theme=blue-green" style="max-width:100%;"><img width="495px" align="right" src="https://github-readme-stats.vercel.app/api?username=tjatoba&amp;theme=blue-green" style="max-width:100%;">
+    </td>
+  </tr>
+</table>
 
 <h1>Welcome!<img src="https://github.com/tjatoba/tjatoba/blob/main/images/Hi.gif" width="30px" style="max-width:100%;"></h1> 
 
@@ -26,7 +32,7 @@
 <hr></hr> 
 
 <br/>
-
+<img style="marging:20px;" src="https://komarev.com/ghpvc/?username=your-github-username&color=079839">
 **CONTACT ME** <br/>
 <a align="center" href="https://www.linkedin.com/in/thiagojatobadev/">
   <img align="center" alt="tjatoba-linkedin" height="40" width="150" src="https://github.com/tjatoba/tjatoba/blob/main/images/LinkedIn_Logo.png">
