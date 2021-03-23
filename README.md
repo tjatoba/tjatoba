@@ -11,7 +11,7 @@
   </tr>
 </table>
 
-<h1>Welcome!<img src="https://github.com/tjatoba/tjatoba/blob/main/images/Hi.gif" width="30px" style="max-width:100%;"></h1> 
+<h1 align="center">Welcome To Everyone!<img src="https://github.com/tjatoba/tjatoba/blob/main/images/Hi.gif" width="30px" style="max-width:100%;"></h1> 
 
 <h3>I'm a Former Marketing Executive and Development Student since March 2020.</h3>
 <p align="justify">I am looking to collaborate on projects that I can practice the languages that I have been studying. In my profile, you will find projects developed with scholarships at Digital House and Labenu Code School.</p>
