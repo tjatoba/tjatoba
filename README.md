@@ -18,7 +18,7 @@
 </br>
 
 <hr></hr> 
-<h2 align="center">I’m Currently Studying:</h2>
+<h2 align="center">I am Currently Studying:</h2>
 <p align="center" style="display: flex; justify-content: space-between">
   <img alt="tjatoba-techskills" style="max-width:100%;"src="https://github.com/tjatoba/tjatoba/blob/main/images/bannerlinguagens.png">
 </p>
