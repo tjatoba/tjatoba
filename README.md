@@ -15,17 +15,12 @@
 
 <h3>I'm a Former Marketing Executive and Development Student since March 2020.</h3>
 <p align="justify">I am looking to collaborate on projects that I can practice the languages that I have been studying. In my profile, you will find projects developed with scholarships at Digital House and Labenu Code School.</p>
+</br>
+
 <hr></hr> 
-<h4 align="center">I’m Currently Studying:</h4>
-<p align="center" >
-  <img alt="tjatoba-linkedin" height="40" width="40" margin="20px" src="https://github.com/tjatoba/tjatoba/blob/main/images/HTML.png">
-  <img alt="tjatoba-linkedin" height="42" width="35" margin="20px" src="https://github.com/tjatoba/tjatoba/blob/main/images/CSS.png">
-  <img alt="tjatoba-linkedin" height="40" width="40" margin="20px" src="https://github.com/tjatoba/tjatoba/blob/main/images/JavaScript_logo.png">
-  <img alt="tjatoba-linkedin" height="40" width="40" src="https://github.com/tjatoba/tjatoba/blob/main/images/react.png">
-  <img alt="tjatoba-linkedin" height="40" width="40" src="https://github.com/tjatoba/tjatoba/blob/main/images/typescript.png">
-  <img alt="tjatoba-linkedin" height="42" width="42" margin="20px" src="https://github.com/tjatoba/tjatoba/blob/main/images/Node.js_bglogo.png">
-  <img alt="tjatoba-linkedin" height="40" width="40" margin="20px" src="https://github.com/tjatoba/tjatoba/blob/main/images/jest.png">
-  <img alt="tjatoba-linkedin" height="40" width="40" margin="20px" src="https://github.com/tjatoba/tjatoba/blob/main/images/SQL.png">
+<h2 align="center">I’m Currently Studying:</h2>
+<p align="center" style="display: flex; justify-content: space-between">
+  <img alt="tjatoba-techskills" style="max-width:100%;"src="https://github.com/tjatoba/tjatoba/blob/main/images/bannerlinguagens.png">
 </p>
 <hr></hr> 
 
