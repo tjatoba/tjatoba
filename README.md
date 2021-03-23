@@ -25,7 +25,7 @@
 <hr></hr> 
 
 <br/>
-<img style="marging:20px;" src="https://komarev.com/ghpvc/?username=your-github-username&color=079839">
+<img src="https://komarev.com/ghpvc/?username=your-github-username&color=079839">
 
 **CONTACT ME** <br/>
 <a align="center" href="https://www.linkedin.com/in/thiagojatobadev/">
