@@ -1,7 +1,7 @@
 <table style="width:100%">
   <tr>
     <th>
-      <img src="tjatoba/images/bannerthiagojatoba.png" alt="banner_github" style="max-width:100%;">
+      <img src="https://github.com/tjatoba/tjatoba/blob/main/images/bannerthiagojatoba.png" alt="banner_github" style="max-width:100%;">
     </th>
   </tr>
   <tr>
