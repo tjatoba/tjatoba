@@ -24,7 +24,7 @@
 </p>
 <hr></hr> 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=your-github-username&color=079839">
+<img src="https://komarev.com/ghpvc/?username=tjatoba&color=079839">
 </br>
 </br>
 
