@@ -14,11 +14,11 @@
 <h1 align="center">Welcome to Everyone!<img src="https://github.com/tjatoba/tjatoba/blob/main/images/Hi.gif" width="30px" style="max-width:100%;"></h1> 
 
 <h3 align="center">I'm a Former Marketing Executive and Full Stack Web Developer.</h3>
-<p align="justify">I would like to collaborate on projects that I can practice the languages that I have been study. </br> Here you will find projects developed with scholarships at Digital House and Labenu Code School.</p>
+<p align="center">I would like to collaborate on projects that I can practice the languages that I have been study. </br> Here you will find projects developed with scholarships at Digital House and Labenu Code School.</p>
 </br>
 
 <hr></hr> 
-<h2 align="center">I am Currently Studying:</h2>
+<h2 align="center">My Satcks:</h2>
 <p align="center" style="display: flex; justify-content: space-between">
   <img alt="tjatoba-techskills" style="max-width:100%;"src="https://github.com/tjatoba/tjatoba/blob/main/images/bannerlinguagens.png">
 </p>
