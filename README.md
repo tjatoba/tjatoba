@@ -11,7 +11,7 @@
   </tr>
 </table>
 
-<h1 align="center">Welcome to Everyone!<img src="https://github.com/tjatoba/tjatoba/blob/main/images/Hi.gif" width="30px" ></h1> 
+<h1 align="center">Welcome to Everyone!<img src="https://github.com/tjatoba/tjatoba/blob/main/images/Hi.gif" width="30" heigth="30" ></h1> 
 
 <h3 align="center">I'm a Former Marketing Executive and Full Stack Web Developer.</h3>
 <p align="center">I would like to collaborate on projects that I can practice the languages that I work with.
@@ -31,6 +31,6 @@
 **CONTACT ME**
 <br/>
 <a href="https://www.linkedin.com/in/thiagojatobadev/">
-  <img alt="tjatoba-linkedin" height="40" width="150" src="https://github.com/tjatoba/tjatoba/blob/main/images/LinkedIn_Logo.png">
+  <img alt="tjatoba-linkedin" height="40" width="40" src="https://github.com/tjatoba/tjatoba/blob/main/images/LinkedIn_initials.png">
 </a>
 </div>
