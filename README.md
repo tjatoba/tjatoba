@@ -12,9 +12,12 @@
 
 ## 📊 Estatísticas GitHub
 
-<p align="center">
+<div align="center">
+
 [![GitHub Stats](https://github-readme-stats-six-tau.vercel.app/api?username=tjatoba&show_icons=true&theme=blue-green)](https://github.com/tjatoba)
-</p>
+
+</div>
+
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
