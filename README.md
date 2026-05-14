@@ -12,9 +12,9 @@
 
 ## 📊 Estatísticas GitHub
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tjatoba&show_icons=true&theme=blue-green&count_private=true&cache_seconds=1800)](https://github.com/tjatoba)
+[![GitHub Stats](https://github-readme-stats-six-tau.vercel.app/api?username=tjatoba&show_icons=true&theme=blue-green)](https://github.com/tjatoba)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjatoba&layout=compact&theme=blue-green&cache_seconds=1800)](https://github.com/tjatoba)
+[![Top Langs](https://github-readme-stats-six-tau.vercel.app/api/top-langs/?username=tjatoba&layout=compact&theme=blue-green)](https://github.com/tjatoba)
 
 ---
 
