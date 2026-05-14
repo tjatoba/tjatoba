@@ -32,10 +32,10 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/thiagojatobadev/">
     <img alt="LinkedIn" height="40" width="40" src="https://github.com/tjatoba/tjatoba/blob/main/images/LinkedIn_initials.png?raw=true">
-  </a>
+  <!-- </a>
   <a href="https://github.com/tjatoba">
     <img alt="GitHub" height="40" width="40" src="https://img.icons8.com/fluent/40/github.png">
-  </a>
+  </a> -->
 </div>
 
 ---
