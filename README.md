@@ -1,36 +1,45 @@
-<table style="width:100%">
-  <tr>
-    <th>
-      <img src="https://github.com/tjatoba/tjatoba/blob/main/images/bannerthiagojatoba.png" alt="banner_github" style="max-width:100%;">
-    </th>
-  </tr>
-  <tr>
-    <td>
-      <img width="370px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjatoba&layout=compact&theme=blue-green" style="max-width:100%;"><img width="400px" align="right" src="https://github-readme-stats.vercel.app/api?username=tjatoba&amp;theme=blue-green" style="max-width:100%;">
-    </td>
-  </tr>
-</table>
+![Banner](https://github.com/tjatoba/tjatoba/blob/main/images/bannerthiagojatoba.png?raw=true)
 
-<h1 align="center">Welcome to Everyone!<img src="https://github.com/tjatoba/tjatoba/blob/main/images/Hi.gif" width="30" heigth="30" ></h1> 
+<h1 align="center">Bem-vindo(a)! <img src="https://github.com/tjatoba/tjatoba/blob/main/images/Hi.gif?raw=true" width="28" height="28" alt="wave"></h1>
 
-<h3 align="center">I'm a Former Marketing Executive and Full Stack Web Developer.</h3>
-<p align="center">I would like to collaborate on projects that I can practice the languages that I work with.
-</br>
+<h3 align="center">💼 Full Stack Web Developer | Former Marketing Executive</h3>
 
-<hr></hr> 
-<h2 align="center">These are some of the technologies and tools that I work with:</h2>
-<p align="center" style="display: flex; justify-content: space-between">
-  <img alt="tjatoba-techskills" style="max-width:100%;"src="https://github.com/tjatoba/tjatoba/blob/main/images/bannerlinguagens.png">
+<p align="center">
+  <em>Buscando colaborar em projetos para aprimorar minhas habilidades com linguagens de programação.</em>
 </p>
-<hr></hr> 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=tjatoba&color=079839">
-</br>
-</br>
 
-**CONTACT ME**
-<br/>
-<a href="https://www.linkedin.com/in/thiagojatobadev/">
-  <img alt="tjatoba-linkedin" height="40" width="40" src="https://github.com/tjatoba/tjatoba/blob/main/images/LinkedIn_initials.png">
-</a>
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tjatoba&theme=blue-green&show_icons=true&hide_border=true" alt="GitHub Stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjatoba&layout=compact&theme=blue-green&hide_border=true" alt="Top Languages">
+</div>
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+<p align="center">
+  <img src="https://github.com/tjatoba/tjatoba/blob/main/images/bannerlinguagens.png?raw=true" alt="Tech Skills" style="max-width: 100%; height: auto;">
+</p>
+
+---
+
+## 📞 Conecte-se Comigo
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/thiagojatobadev/">
+    <img alt="LinkedIn" height="40" width="40" src="https://github.com/tjatoba/tjatoba/blob/main/images/LinkedIn_initials.png?raw=true">
+  </a>
+  <a href="https://github.com/tjatoba">
+    <img alt="GitHub" height="40" width="40" src="https://img.icons8.com/fluent/40/github.png">
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=tjatoba&color=079839" alt="Profile Views">
 </div>
