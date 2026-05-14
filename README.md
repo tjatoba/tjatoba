@@ -13,8 +13,11 @@
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tjatoba&theme=blue-green&show_icons=true&hide_border=true" alt="GitHub Stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjatoba&layout=compact&theme=blue-green&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=tjatoba&theme=blue-green&show_icons=true&hide_border=false&include_all_commits=true" alt="GitHub Stats">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjatoba&layout=compact&theme=blue-green&hide_border=false" alt="Top Languages">
 </div>
 
 ---
@@ -32,10 +35,10 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/thiagojatobadev/">
     <img alt="LinkedIn" height="40" width="40" src="https://github.com/tjatoba/tjatoba/blob/main/images/LinkedIn_initials.png?raw=true">
-  <!-- </a>
+  </a>
   <a href="https://github.com/tjatoba">
     <img alt="GitHub" height="40" width="40" src="https://img.icons8.com/fluent/40/github.png">
-  </a> -->
+  </a>
 </div>
 
 ---
